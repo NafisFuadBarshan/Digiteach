@@ -1,2 +1,2 @@
-# project1
-This is my portfolio
+# Digiteach
+This is our software engineering project for E-Learning and Tutor-Friendly Platform
